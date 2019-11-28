@@ -12,6 +12,7 @@ git commit -m "message" <br>
 git status <br>
 git log <br>
 git clone https://github.com/g-vega-cl/2019_11_26-GitTutorial/new/master.git  <br>
+git remote add origin https://github.com/g-vega-cl/ReactTutorial.git
 git push -u origin master <br>
 git push -u origin master --force <br>
 git checkout <branch name> #switch to branch <br>
