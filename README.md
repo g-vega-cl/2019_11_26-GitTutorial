@@ -12,7 +12,16 @@ git commit -m "message" <br>
 git status <br>
 git log <br>
 git clone https://github.com/g-vega-cl/2019_11_26-GitTutorial/new/master.git  <br>
+
+#I think you git init first -> clone -> then add origin -> then you can push
 git remote add origin https://github.com/g-vega-cl/ReactTutorial.git
+git remote add crash-course-remote 
+    https://github.com/gittower/git-crash-course-remote.git
+
+git remote -v #check remote reps
+git remote rm origin #remove a remote
+
+
 git push -u origin master <br>
 git push -u origin master --force <br>
 git checkout <branch name> #switch to branch <br>
