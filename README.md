@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=HiXLkL42tMU
 
 and some commands:
 
-git init
+git init <br>
 git add --all <br>
 git commit -m "message" <br>
 git status <br>
