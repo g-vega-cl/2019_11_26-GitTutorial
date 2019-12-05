@@ -22,7 +22,7 @@ git remote -v #check remote reps <br>
 git remote rm origin #remove a remote <br>
 
 
-git push -u origin master <br>
+git push -u origin master   (Origin is the name of the remote)  <br>
 git push -u origin master --force <br>
 git checkout <branch name> #switch to branch <br>
 git branch <branch name> #create branch <br>
