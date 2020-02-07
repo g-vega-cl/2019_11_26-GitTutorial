@@ -26,3 +26,8 @@ git push -u origin master   (Origin is the name of the remote)  <br>
 git push -u origin master --force <br>
 git checkout <branch name> #switch to branch <br>
 git branch <branch name> #create branch <br>
+
+
+From scratch:
+
+git init -> git remote add origin https://github.com/gittower/git-crash-course-remote.git -> git add --all  -> git commit -m "message" -> git push -u origin master
