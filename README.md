@@ -11,7 +11,7 @@ git add --all <br>
 git commit -m "message" <br>
 git status <br>
 git log <br>
-git clone https://github.com/g-vega-cl/2019_11_26-GitTutorial/new/master.git  <br>
+git clone https://github.com/g-vega-cl/2019_11_26-GitTutorial/new/master.git  - git clone with an url basically copies everything from the url to your folder<br>
 
 #I think you git init first -> clone -> then add origin -> then you can push
 git remote add origin https://github.com/g-vega-cl/ReactTutorial.git <br>
